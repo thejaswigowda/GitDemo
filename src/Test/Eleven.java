@@ -22,7 +22,17 @@ public class Eleven {
 		System.out.println("method 13");
 	}
 	
+	@Test
+	public void fourteen()
+	{
+		System.out.println("method 14");
+	}
 	
+	@Test
+	public void fifteen()
+	{
+		System.out.println("method 15");
+	}
 	 
 	
 }

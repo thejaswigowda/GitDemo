@@ -23,5 +23,17 @@ public class TwentyOne {
 	{
 		System.out.println("method 23");
 	}
+	
+	@Test
+	public void twentyFour()
+	{
+		System.out.println("method 24");
+	}
+	
+	@Test
+	public void twentyFive()
+	{
+		System.out.println("method 25");
+	}
 
 }
