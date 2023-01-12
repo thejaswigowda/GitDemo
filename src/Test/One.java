@@ -29,4 +29,10 @@ public class One {
 	{
 		System.out.println("method 4");
 	}
+	
+	@Test
+	public void five()
+	{
+		System.out.println("method 5");
+	}
 }
