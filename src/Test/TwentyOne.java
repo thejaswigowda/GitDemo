@@ -47,4 +47,10 @@ public class TwentyOne {
 	{
 		System.out.println("method 27");
 	}
+	
+	@Test
+	public void twentyEight()
+	{
+		System.out.println("method 28");
+	}
 }
