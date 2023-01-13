@@ -36,4 +36,15 @@ public class TwentyOne {
 		System.out.println("method 25");
 	}
 
+	@Test
+	public void twentySix()
+	{
+		System.out.println("method 26");
+	}
+	
+	@Test
+	public void twentySeven()
+	{
+		System.out.println("method 27");
+	}
 }
